@@ -2,9 +2,10 @@
 Making clear and concise changes to projects is beneficial and helps save time. As a developer, SwampHacks expects you to follow these rules when contributing to any of the repositories under the organization. 
 
 ## Git Flow
-SwampHacks follows a slightly modified version of Git Flow (no development branch). When making changes, you should follow the task branching strategy outlined below:
 
 > The master branch is protected – all commits must be made from a non-protected branch and submitted via a pull request.
+
+SwampHacks follows a slightly modified version of Git Flow (no development branch). When making changes, you should follow the task branching strategy outlined below:
 
 1. Create a new branch based off of master following the specified naming format (see **Branch Name Format** below).
 2. Make changes and commits (see **Commit Name Format** below), but keep the changes specific to the feature/issue you are working on.
