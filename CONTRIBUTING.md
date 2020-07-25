@@ -4,7 +4,7 @@ Making clear and concise changes to projects is beneficial and helps save time. 
 ## Git Flow
 SwampHacks follows a slightly modified version of Git Flow (no development branch). When making changes, you should follow the task branching strategy outlined below:
 
-> Master is a protected branch – all commits must be made from a non-protected branch and submitted via a pull request
+> The master branch is protected – all commits must be made from a non-protected branch and submitted via a pull request.
 
 1. Create a new branch based off of master following the specified naming format (see **Branch Name Format** below).
 2. Make changes and commits (see **Commit Name Format** below), but keep the changes specific to the feature/issue you are working on.
@@ -12,7 +12,7 @@ SwampHacks follows a slightly modified version of Git Flow (no development branc
 4. Once your PR has been approved, proceed with merging to the main branch and resolving any merge conflicts.
 5. Delete the source branch you created. It is no longer necessary to keep a branch after it has been merged.
 
-For additional information on branching and general workflows, go [here](https://guides.github.com/introduction/flow/).
+For additional information on branching and general workflows, see [this](https://guides.github.com/introduction/flow/).
 
 ### Branch Name Format
 Branches should all follow a clear and consistent naming scheme, outlined below:
