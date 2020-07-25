@@ -8,7 +8,7 @@ SwampHacks follows a slightly modified version of Git Flow (no development branc
 
 1. Create a new branch based off of master following the specified naming format (see **Branch Name Format** below).
 2. Make changes and commits (see **Commit Name Format** below), but keep the changes specific to the feature/issue you are working on.
-3. When all of your changes are complete, make a pull request (PR) and wait for review.
+3. When all of your changes are complete, make a pull request (PR) and wait for review (note: before making a PR, ensure your branch is up-to-date with master).
 4. Once your PR has been approved, proceed with merging to the main branch and resolving any merge conflicts.
 5. Delete the source branch you created. It is no longer necessary to keep a branch after it has been merged.
 
