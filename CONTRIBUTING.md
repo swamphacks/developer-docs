@@ -20,4 +20,4 @@ Branches should all follow a clear and consistent naming scheme, outlined below:
 - **hotfix/<`fix-name`>** => used for fixing bugs
 
 ### Commit Format
-Commit styles should follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/). These styles are generally enforced using git hooks and should be used in every case.
+Commit styles should follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/). These styles are generally enforced using git hooks and should be used in every repo.
