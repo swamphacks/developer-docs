@@ -18,8 +18,8 @@ For additional information on branching and general workflows, see [this](https:
 ### Branching Strategy
 Branches should all follow a clear and consistent naming scheme, outlined below:
 
-- **feature/<`feature-name`>** - used for developing new features, based off of **develop** branch
-- **hotfix/<`fix-name`>** - used for fixing bugs, based off of **master** branch
+- **feat/<`feature-name`>** - used for developing new features, based off of **develop** branch
+- **fix/<`fix-name`>** - used for fixing bugs, based off of **master** branch
 
 ### Commit Format
 Commit styles should follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/). These styles are generally enforced using git hooks and should be used in every repo.
