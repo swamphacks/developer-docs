@@ -18,10 +18,10 @@ For additional information on branching and general workflows, see [this](https:
 ### PR Guidelines
 
 1. Before creating a PR, make sure there is an issue on the repository related to the changes you made. If there is not an issue, create one.
-2. When creating a PR, be sure to link the related issue to the PR.
-3. Provide a brief overall description of the changes that you made in the body of the PR (~1 sentence). 
-4. List out individual changes in a bullet-style list to provide a clear view of exactly what was changed.
-5. Provide screenshots if relevant to improve the approval speed of the PR (mostly applies to frontend). 
+2. When creating a PR, provide a brief overall description of the changes that you made in the body of the PR (~1 sentence). 
+3. List out individual changes in a bullet-style list to provide a clear view of exactly what was changed.
+4. Provide screenshots if relevant to improve the approval speed of the PR (mostly applies to frontend). 
+5. After creating a PR, be sure to link the issue related to your changes (edit the **linked issues** section on the right side of the PR screen).
 
 ### Branching Strategy
 Branches should all follow a clear and consistent naming scheme, outlined below:
